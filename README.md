@@ -3,7 +3,7 @@
 <!--
 **ijsje6666/ijsje6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+ULTIMATE GOAL: START THE RUMBLING
 
 - 🔭 I’m currently working on -home work!-
 - 🌱 I’m currently learning -nothing!-
